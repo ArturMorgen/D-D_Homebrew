@@ -101,3 +101,5 @@
         <rules>
             <grant type="Proficiency" id="ID_PROFICIENCY_SKILL_ACROBATICS" />
         </rules>
+    </element>
+</element>
