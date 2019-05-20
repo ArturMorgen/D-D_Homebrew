@@ -5,7 +5,7 @@
 		<description>The 5e homebrew content from the D&amp;D Wiki website.</description>
 		<author url="http://www.dandwiki.com/wiki/5e_Homebrew">D&amp;D Wiki</author>
 		<update version="0.1.4">
-			<file name="best-class.index" url="https://raw.githubusercontent.com/ArturMorgen/D-D_Homebrew/new/master/best-class.index" />
+			<file name="best-class.index" url="https://raw.githubusercontent.com/ArturMorgen/D-D_Homebrew/master/best-class.index" />
 		</update>
 	</info>
 	<files>		
