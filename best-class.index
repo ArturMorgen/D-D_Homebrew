@@ -9,7 +9,7 @@
 		</update>
 	</info>
 	<files>		
-		<!-- races -->
+		<!-- race -->
 		<file name="race-apeling.xml" url="https://raw.githubusercontent.com/ArturMorgen/D-D_Homebrew/master/race-apeling.xml" />
 	</files>
 </index>
